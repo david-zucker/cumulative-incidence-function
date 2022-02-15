@@ -1,5 +1,5 @@
 # cumulative-incidence-function
-Estimation of Cumulative Incidence Function in Competing Risks Cox Model
+Estimation of the umulative Incidence Function in the Competing Risks Cox Model
 
 Contents:
 
